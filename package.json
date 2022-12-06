@@ -4,8 +4,7 @@
   "main": "dist/index.js",
   "types": "lib/index.d.ts",
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/LZS911/vite-plugin-conditional-compile"
+    "type": "git"
   },
   "keywords": [
     "vite",
