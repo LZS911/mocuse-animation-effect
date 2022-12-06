@@ -2,9 +2,10 @@
   "name": "mouse-animation-effect",
   "version": "1.0.0",
   "main": "dist/index.js",
-  "types": "lib/index.d.ts",
+  "types": "dist/index.d.ts",
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "git+https://github.com/LZS911/mocuse-animation-effect"
   },
   "keywords": [
     "vite",
