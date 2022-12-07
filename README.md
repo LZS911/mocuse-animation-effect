@@ -1,5 +1,13 @@
 # A Tool Library for Adding Mouse Animation Effects
 
+## INSTALL
+
+```ssh
+npm install mouse-animation-effect
+//or
+yarn add mouse-animation-effect
+```
+
 ## USAGE
 
 ```typescript
@@ -12,7 +20,9 @@ const {initMouseEffect, removeMouseEffect} = generateMouseEffect();
 
 | name | defaultValue | type | description |
 | :-:  | :-:          | :-:  | :-:         |
-| content | ❤ | string  | what appears after a mouse click |
-| delay | 1900 | number | time of content display |
+| content | ❤ | string  | content displayed after mouse click |
+| delay | 1900 | number | displayed content duration |
 
 ## Example
+
+<https://lzs911.github.io/>
