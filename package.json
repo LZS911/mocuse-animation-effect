@@ -1,6 +1,6 @@
 {
   "name": "mouse-animation-effect",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
@@ -8,11 +8,9 @@
     "url": "git+https://github.com/LZS911/mocuse-animation-effect"
   },
   "keywords": [
-    "vite",
     "javascript",
-    "ifdebug",
-    "conditional",
-    "compile"
+    "mouse",
+    "animation"
   ],
   "scripts": {
     "build": "tsc"
