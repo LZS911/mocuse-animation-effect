@@ -12,8 +12,9 @@ yarn add mouse-animation-effect
 
 ```typescript
 import generateMouseEffect from 'mouse-animation-effect';
+import "mouse-animation-effect/dist/index.css";
 
-const {initMouseEffect, removeMouseEffect} = generateMouseEffect();
+const { initMouseEffect, removeMouseEffect } = generateMouseEffect();
 ```
 
 ## Options
